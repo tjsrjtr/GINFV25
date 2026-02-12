@@ -1,8 +1,3 @@
-adsvdvGINFV25
-adgdg
-adgdsg
+This file is created for Web programming II class.
 
-
-ASKA
-saf
-
+Every updates will be published to this file.
