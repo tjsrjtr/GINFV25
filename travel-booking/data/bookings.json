@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1779910369798",
+    "name": "A A",
+    "email": "a@gmail.com",
+    "destination": "Altai Tavan Bogd",
+    "date": "2026-05-31",
+    "passengers": 4,
+    "createdAt": "2026-05-27T19:32:49.799Z"
+  },
+  {
+    "id": "1779992861883",
+    "name": "John Pork",
+    "email": "johnpork@gmail.com",
+    "destination": "Govi",
+    "date": "2026-05-30",
+    "passengers": 1,
+    "createdAt": "2026-05-28T18:27:41.883Z"
+  }
+]
